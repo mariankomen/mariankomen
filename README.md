@@ -16,3 +16,13 @@
 ### Follow Me:
 [![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/mariankomen)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mariankomen/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariankomen&count_private=true&show_icons=true&&theme=tokyonight)](https://github.com/mariankomen/github-readme-stats) 
+
+<hr/>
+<div style="width:100%;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariankomen)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
