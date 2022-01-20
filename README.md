@@ -1,5 +1,5 @@
 ## Salesforce Developer
-###Hi, I'm Marian, fullstack salesforce developer from Ukraine!
+##Hi, I'm Marian, fullstack salesforce developer from Ukraine!
 
 
 ### Languages and Tools:
@@ -14,3 +14,5 @@
 
 
 ### Follow Me:
+[![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/mariankomen)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mariankomen/)
